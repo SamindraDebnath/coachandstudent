@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "814615635914",
+    "project_id": "coach-and-student",
+    "storage_bucket": "coach-and-student.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814615635914:android:baab2866dd6900a9545133",
+        "android_client_info": {
+          "package_name": "com.live.coachandstudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814615635914-tv7a4mttbm0n1sk2hri4noqhdh2rh08s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.coachandstudent",
+            "certificate_hash": "e63bc9aa6bda0e863fb65ed8d6c15d967ea9c7a8"
+          }
+        },
+        {
+          "client_id": "814615635914-etodt4a2ojp4uv8stg38bheqhv7b9t95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtNgc-4VF-dg1IXVwnc0edMeC865rTVzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814615635914-etodt4a2ojp4uv8stg38bheqhv7b9t95.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "814615635914-ka420tsahv82olvh0m5gj1ql9cjrs9ut.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.live.coachandstudent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
